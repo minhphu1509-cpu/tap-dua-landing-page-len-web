@@ -1,0 +1,7 @@
+{
+  "name": "ResilienceRE - Bất động sản Doanh nghiệp",
+  "description": "Hệ thống Landing Page Bất động sản bền vững, hoạt động ngoại tuyến, giao diện Material Design 3, mô phỏng tự động chuyển đổi dự phòng và tích hợp Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
